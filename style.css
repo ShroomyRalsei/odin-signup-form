@@ -36,6 +36,10 @@ body {
     align-items:center;
 }
 
+.logo-container img {
+    width:max(8vw, 50px);
+}
+
 .bg-img-container {
     width:35vw;
     height:100vh;
