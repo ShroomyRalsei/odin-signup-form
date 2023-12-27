@@ -35,3 +35,10 @@ body {
     display:flex;
     align-items:center;
 }
+
+.bg-img-container {
+    width:35vw;
+    height:100vh;
+    min-width:250px;
+    overflow:hidden;
+}
