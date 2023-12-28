@@ -107,6 +107,7 @@ form {
 
 .input-container {
     margin-top:15px;
+    gap:20px;
     flex-wrap:wrap;
 }
 
