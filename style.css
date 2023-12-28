@@ -109,6 +109,10 @@ h2, .logo-container + div > p > a, .logo-container + div {
     color:yellowgreen;
 }
 
+.submit-btn, .button-container > p > a {
+    font-weight:bold;
+}
+
 .bg-img-container {
     width:35vw;
     height:100vh;
