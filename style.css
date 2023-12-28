@@ -35,6 +35,10 @@ body {
     font-family:Arial, Helvetica, Verdana;
 }
 
+.lorem-ipsum-text, form {
+    padding: 0 10vw 0 20px;
+}
+
 body, .logo-container, .bg-img-container {
     display:flex;
 }
