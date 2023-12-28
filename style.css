@@ -32,11 +32,14 @@ body {
 .logo-container > img + h1 {
     color:white;
     font-size:calc(4rem + 1vw);
-    font-family:Arial, Helvetica, Verdana;
 }
 
 .lorem-ipsum-text, form {
     padding: 0 10vw 0 20px;
+}
+
+.logo-container > img + h1, legend {
+    font-family:Arial, Helvetica, Verdana;
 }
 
 body, .logo-container, .bg-img-container {
