@@ -42,7 +42,7 @@ body {
     font-family:Arial, Helvetica, Verdana;
 }
 
-body, .logo-container, .bg-img-container, .input-container {
+body, .logo-container, .bg-img-container, .input-container, .input-container > div {
     display:flex;
 }
 
@@ -104,4 +104,9 @@ form {
 .input-container {
     margin-top:15px;
     flex-wrap:wrap;
+}
+
+.input-container > div {
+    flex-direction:column;
+    gap:5px;
 }
