@@ -33,7 +33,7 @@ input:focus, input:active {
     border-color:red;
 }
 
-.error:valid {
+input:valid {
     border-color:blue;
 }
 
