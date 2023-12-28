@@ -21,6 +21,20 @@ time, mark, audio, video {
 
 input {
     appearance:none;
+    border:2px solid #E5E7EB;
+}
+
+input:focus, input:active {
+    border-color:rgb(0, 208, 255);
+    outline:none;
+}
+
+.error {
+    border-color:red;
+}
+
+.error:valid {
+    border-color:blue;
 }
 
 body {
