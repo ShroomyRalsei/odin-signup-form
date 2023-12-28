@@ -35,8 +35,11 @@ body {
     font-family:Arial, Helvetica, Verdana;
 }
 
-.logo-container, .bg-img-container {
+body, .logo-container, .bg-img-container {
     display:flex;
+}
+
+.logo-container, .bg-img-container {
     align-items:center;
     justify-content:center;
 }
