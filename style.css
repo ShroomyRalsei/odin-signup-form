@@ -67,6 +67,10 @@ a {
     margin:auto 0;
 }
 
+h2 {
+    margin-bottom:30px;
+}
+
 .logo-container img {
     width:max(8vw, 50px);
 }
