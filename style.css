@@ -34,7 +34,7 @@ body {
     font-size:calc(4rem + 1vw);
 }
 
-.lorem-ipsum-text, form {
+.lorem-ipsum-text, form, .button-container {
     padding: 20px 10vw 20px 20px;
 }
 
