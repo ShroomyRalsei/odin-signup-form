@@ -91,6 +91,10 @@ h2, .logo-container + div > p > a, .logo-container + div {
     width:max(8vw, 50px);
 }
 
+.button-container > p > a {
+    color:yellowgreen;
+}
+
 .bg-img-container {
     width:35vw;
     height:100vh;
