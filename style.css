@@ -58,7 +58,7 @@ body, .logo-container, .bg-img-container {
 .form-container {
     flex:1;
     background-color:rgb(200,200,200);
-    padding:20vh 0;
+    padding:15vh 0;
     overflow-y:scroll;
 }
 
