@@ -84,3 +84,7 @@ h2 {
     background-size:cover;
     flex-direction:column;
 }
+
+form {
+    background-color:white;
+}
