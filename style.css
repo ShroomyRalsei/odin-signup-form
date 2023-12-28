@@ -100,3 +100,7 @@ h2, .logo-container + div > p > a, .logo-container + div {
 form {
     background-color:white;
 }
+
+.input-container {
+    margin-top:15px;
+}
