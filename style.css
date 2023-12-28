@@ -34,12 +34,12 @@ body {
 .logo-container, .bg-img-container {
     display:flex;
     align-items:center;
+    justify-content:center;
 }
 
 .logo-container {
     background-color:rgba(0,0,0,0.7);
     width:100%;
-    justify-content:center;
     padding:1rem;
 }
 
@@ -54,4 +54,5 @@ body {
     overflow:hidden;
     background-image:url('./images/fieldimg.jpeg');
     background-size:cover;
+    flex-direction:column;
 }
