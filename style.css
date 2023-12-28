@@ -73,6 +73,7 @@ a {
 h2 {
     margin-bottom:30px;
     font-size:1.2rem;
+    font-weight:500;
 }
 
 h2, .logo-container + div > p > a, .logo-container + div {
