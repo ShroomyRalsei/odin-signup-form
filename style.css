@@ -41,6 +41,7 @@ body {
     background-color:rgba(0,0,0,0.7);
     width:100%;
     padding:1rem;
+    margin:auto 0;
 }
 
 .logo-container img {
