@@ -101,6 +101,15 @@ h2, .logo-container + div > p > a, .logo-container + div {
     flex-direction:column;
 }
 
+.submit-btn {
+    margin-bottom:20px;
+    background-color:yellowgreen;
+    color:white;
+    padding:12px 32px;
+    border-radius:8px;
+    border:none;
+}
+
 form {
     background-color:white;
 }
